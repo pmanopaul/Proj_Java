@@ -18,8 +18,7 @@ public class FirstJavaProj
 		System.out.println("Address is:"+address);
 	}
 	public static void main(String[] args) 
-	{
-		FirstJavaProj fp=new FirstJavaProj();
+	{	FirstJavaProj fp=new FirstJavaProj();
 		fp.input();
 		fp.compute();		
 	}
